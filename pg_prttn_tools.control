@@ -1,7 +1,7 @@
 # pg_prttn_tools extension
 
 comment = 'PostgreSQL extension for partition tables management'
-default_version = 0.2
+default_version = 0.3
 
 encoding = utf8
 superuser = true
